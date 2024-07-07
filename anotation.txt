@@ -1,1 +1,0 @@
-trabalhar sem com vw, pois ele pega o tamnanho da altura e altura do mesmo na pagina.
